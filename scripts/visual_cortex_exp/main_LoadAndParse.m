@@ -1,6 +1,6 @@
 %% load one example dataset
 clear all
-load 10
+load 01
 
 %% parse responses to different image sets
 
