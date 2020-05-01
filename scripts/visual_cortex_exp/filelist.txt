@@ -1,0 +1,19 @@
+# CRCNS.org 'pvc-8' dataset files
+# To use this for fetching files, comment out files that are
+# not needed by putting a '#' as the first character on the line (default mode)
+# or put a '+' as the first character to specifiy files to be fetched (+ mode).
+# mode='default' (change to '+' for + mode).
+ data/01.mat	25054085 (23.8 MB)
+ data/02.mat	37090433 (35.3 MB)
+ data/03.mat	40734348 (38.8 MB)
+ data/04.mat	30563266 (29.1 MB)
+ data/05.mat	32575368 (31.0 MB)
+ data/06.mat	35583670 (33.9 MB)
+ data/07.mat	38271622 (36.4 MB)
+ data/08.mat	27053856 (25.8 MB)
+ data/09.mat	27495754 (26.2 MB)
+ data/10.mat	24426299 (23.2 MB)
+ docs/crcns_pvc-8_data_description.docx	22505 (21.9 KB)
+ docs/crcns_pvc-8_data_description.pdf	62083 (60.6 KB)
+ matlab_script/main_LoadAndParse.m	3949 (3.8 KB)
+ checksums.md5	720
